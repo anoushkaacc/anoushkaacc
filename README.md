@@ -9,7 +9,7 @@ I'm a STUDENT, passionate about learning new programming languages and tools. We
 
 ## 📫 How to reach me
 
--E-mail : anoushka19c@gmail.com
+-E-mail : anoushka19c@gmail.com/
 -LinkedIn Profile: www.linkedin.com/in/anoushka-chatterjee1
 
 ## 📊 GitHub Stats
