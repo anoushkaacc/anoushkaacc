@@ -15,3 +15,4 @@ I'm a STUDENT, passionate about learning new programming languages and tools. We
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-activity-graph.vercel.app/graph?username=anoushkaacc&radius=16&theme=github-dark&area=true&order=5&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=anoushkaacc&show_icons=true&theme=radical)
