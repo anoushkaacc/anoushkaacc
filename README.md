@@ -1,5 +1,5 @@
 #
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hello%2C+, my+name+is+Anoushka+Chatterjee!" align="middle" alt="Hey, I'm Anoushka Welcome to my Profile! animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hello%2C+ my+name+is+Anoushka+Chatterjee!" align="middle" alt="Hey, I'm Anoushka Welcome to my Profile! animated typed out">
 
 I'm a STUDENT, passionate about learning new programming languages and tools. Welcome to my GitHub profile!
 
