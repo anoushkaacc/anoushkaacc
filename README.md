@@ -17,3 +17,6 @@ I'm a STUDENT, passionate about learning new programming languages and tools. We
 
 ![Your GitHub Stats](https://github-readme-activity-graph.vercel.app/graph?username=anoushkaacc&radius=16&theme=github-dark&area=true&order=5&hide_border=true)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=anoushkaacc&show_icons=true&theme=radical)
+## my virtual pet from codedex
+  [Check out my progress!](https://www.codedex.io/@Anoushkaacc/30-nites-of-code)  
+  ![@Anoushkaacc #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Anoushkaacc)
