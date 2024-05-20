@@ -27,7 +27,8 @@ I'm a student, passionate about learning new programming languages and tools. We
 <br>
 
 <p align="center">
-  Got this virtual pet from Codedex
+  Got this virtual pet from <a href="https://www.codedex.io/@Anoushkaacc">Codedex</a>
 </p>
- ![@Anoushkaacc #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Anoushkaacc) 
-
+<div align="center" display="flex">
+ <a href="https://www.codedex.io/@anoushkaacc/30-nites-of-code"><img src="https://www.codedex.io/images/code-nights/baby-neutral-dragon.gif"></a>
+</div>
