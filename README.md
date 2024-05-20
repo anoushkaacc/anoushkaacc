@@ -26,8 +26,8 @@ I'm a student, passionate about learning new programming languages and tools. We
 </div>
 <br>
 
-
-## Got this virtual pet from codedex
-<div align="center" display="flex">
+<p align="center">
+  Got this virtual pet from Codedex
+</p>
  ![@Anoushkaacc #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Anoushkaacc) 
-</div>
+
