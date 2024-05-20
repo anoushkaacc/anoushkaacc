@@ -18,7 +18,16 @@ I'm a student, passionate about learning new programming languages and tools. We
 ![Your GitHub Stats](https://github-readme-activity-graph.vercel.app/graph?username=anoushkaacc&radius=32&theme=github-dark&area=true&order=5&hide_border=true)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=anoushkaacc&show_icons=true&theme=radical)
 
-## Got this virtual pet from codedex
+<p align="center">
+  You can see for yourself which of these languages I use the most
+</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoushkaacc&theme=tokyonight" width="400" height="200" alt="Top Programming Languages">
+</div>
+<br>
 
-  [codedex](https://www.codedex.io/@Anoushkaacc)
+
+## Got this virtual pet from codedex
+<div align="center" display="flex">
  ![@Anoushkaacc #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Anoushkaacc) 
+</div>
