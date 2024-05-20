@@ -42,5 +42,5 @@ I'm a student, passionate about learning new programming languages and tools. We
   <h3>Got this virtual pet from <a href="https://www.codedex.io/@Anoushkaacc">Codedex</a> </h3>
 </p>
 <div align="center" display="flex">
-  <a href="https://www.codedex.io/@anoushkaacc/30-nites-of-code"><img src="https://www.codedex.io/images/code-nights/baby-neutral-dragon.gif"></a>
+  <a href="https://www.codedex.io/@anoushkaacc/30-nites-of-code"><img src="https://www.codedex.io/api/petStatus?user=Anoushkaacc"></a>
 </div>
