@@ -23,9 +23,9 @@ I'm a student, passionate about learning new programming languages and tools. We
 </div>
 <hr>
 <p align="center">
-  GitHub Stats
+ <h3>GitHub Stats</h3>
 </p>
-<div>
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anoushkaacc&radius=32&theme=github-dark&area=true&order=5&hide_border=true"> 
   <img src="https://github-readme-stats.vercel.app/api?username=anoushkaacc&show_icons=true&theme=radical">
 </div>
