@@ -26,15 +26,15 @@ I'm a student, passionate about learning new programming languages and tools. We
  <h3>GitHub Stats</h3>
 </p>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anoushkaacc&radius=32&theme=github-dark&area=true&order=5&hide_border=true" width="400" height="200" alt="contribution graph"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=anoushkaacc&show_icons=true&theme=radical" width="400" height="200" alt="stats">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anoushkaacc&radius=32&theme=github-dark&area=true&order=5&hide_border=true" width="400" height="300" alt="contribution graph"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=anoushkaacc&show_icons=true&theme=radical" width="400" height="300" alt="stats">
 </div>
 <hr>
 <p align="center">
   <h3> You can see for yourself which of these languages I use the most</h3>
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoushkaacc&theme=tokyonight" width="400" height="200" alt="Top Programming Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anoushkaacc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" width="400" height="200" alt="languages graph">
 </div>
 <br>
 <hr>
