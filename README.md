@@ -19,7 +19,7 @@ I'm a student, passionate about learning new programming languages and tools. We
 </p>
 <div align="center">
   -E-mail : anoushka19c@gmail.com <br>
-  -LinkedIn Profile: www.linkedin.com/in/anoushka-chatterjee1 <br>
+  -<a href="www.linkedin.com/in/anoushka-chatterjee1">LinkedIn Profile </a> <br>
 </div>
 <hr>
 <p align="center">
