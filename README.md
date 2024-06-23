@@ -11,7 +11,7 @@ I'm a student, passionate about learning new programming languages and tools. We
 <div align="center">
   - Machine Learning projects <br>
   - DSA <br>
-  - Python  <br>
+  - Python , R , C++  <br>
 </div>
 <hr>
 <p align="center">
