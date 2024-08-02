@@ -44,3 +44,9 @@ I'm a student, passionate about learning new programming languages and tools. We
 <div align="center" display="flex">
   <a href="https://www.codedex.io/@anoushkaacc/30-nites-of-code"><img src="https://www.codedex.io/api/petStatus?user=Anoushkaacc"></a>
 </div>
+<hr>
+<div align="center">
+<img src = "https://visitcount.itsvg.in/api?id=anoushkaacc&icon=0&color=0)](https://visitcount.itsvg.in">
+
+</div>
+
