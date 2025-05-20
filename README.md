@@ -1,9 +1,7 @@
-#
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hello%2C+ my+name+is+Anoushka+Chatterjee!" align="middle" alt="Hey, I'm Anoushka Welcome to my Profile! animated typed out">
+# Hi I am Anoushka.
 
 <p align="center">
-Motivated engineering student passionate about Data Science and Artificial Intelligence. Core member of the
-college technical society, with a deep enthusiasm for programming. Avid reader of research papers,  passionate about learning new programming languages and tools. Welcome to my GitHub profile!
+I like to make machines learn better!
 </p>
 <hr>
 <p align="center">
@@ -20,7 +18,7 @@ college technical society, with a deep enthusiasm for programming. Avid reader o
 </p>
 <div align="center">
   -E-mail : anoushka19c@gmail.com <br>
-  -<a href="www.linkedin.com/in/anoushka-chatterjee1">LinkedIn Profile </a> <br>
+  -<a href="www.linkedin.com/in/anoushkaacc">LinkedIn Profile </a> <br>
 </div>
 <hr>
 <p align="center">
