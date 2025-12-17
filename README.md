@@ -8,9 +8,7 @@ I like to make machines learn better!
  <h3> I’m currently working on </h3>
 </p>
 <div align="center">
-  - Machine Learning projects <br>
-  - DSA <br>
-  - Python , R , C++  <br>
+  - computer vision
 </div>
 <hr>
 <p align="center">
