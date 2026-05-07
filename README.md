@@ -64,7 +64,6 @@ Remote Sensing
 
 - Email: anoushka19c@gmail.com
 - LinkedIn: [linkedin.com/in/anoushkaacc](https://www.linkedin.com/in/anoushkaacc)
-- GitHub: [github.com/anoushkaacc](https://github.com/anoushkaacc)
 
 ---
 
