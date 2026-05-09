@@ -1,4 +1,4 @@
-# Anoushka
+# Anoushka Chatterjee
 
 Machine Learning Engineer and Research Aspirant interested in developing intelligent systems for scientific and real-world applications.
 
