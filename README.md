@@ -69,7 +69,6 @@ Remote Sensing
 
 ## Research Perspective
 
-Interested in building machine learning systems that are technically rigorous, interpretable, and applicable to scientific and high-impact real-world problems.
-
+The most personal is most creative. 
 ---
 
