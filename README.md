@@ -4,7 +4,7 @@
 
 **Research Engineer · Deep Learning for Scientific Imaging · Aspiring PhD Researcher**
 
-[![ISRO Project](https://img.shields.io/badge/ISRO%20Granted%20Project-IISER%20Trivandrum-534AB7?style=flat-square)](https://www.iisertvpm.ac.in/)
+[![ISRO Project](https://img.shields.io/badge/ISRO%20Granted%20Project-IISER%20Trivandrum-534AB7?style=flat-square)](https://www.iisertvm.ac.in/)
 [![Industry Internship](https://img.shields.io/badge/Industry%20Internship-SECL%20Bilaspur%20HQ-2E7D32?style=flat-square)](https://www.secl-cil.in/)
 [![IEEE IoT Journal](https://img.shields.io/badge/IEEE%20IoT%20Journal-Under%20Review-00629B?style=flat-square&logo=ieee&logoColor=white)]()
 [![NeurIPS 2026](https://img.shields.io/badge/NeurIPS%202026-Under%20Review-6a0dad?style=flat-square)]()
