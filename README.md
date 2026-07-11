@@ -81,12 +81,12 @@ Developed a predictive maintenance system using Random Forest to forecast equipm
 ## Service and Leadership
 
 **Peer Reviewer** · IEEE Internet of Things Journal (IF 8.9)
-`2026 – present`
+`Jun 2026 – present`
 Active manuscript reviewer. Record verifiable via [Web of Science](https://www.webofscience.com/wos/author/record/QJU-4663-2026).
 
 <br>
 
-**Advisor** · Technical Society
+**Advisor** · Programmers' Paradise Technical Society
 `Mar 2024 – May 2026`
 Lead a team of over 50 members, overseeing technical sessions, fostering a collaborative learning environment, and mentoring junior students in both technical and professional skills.
 
