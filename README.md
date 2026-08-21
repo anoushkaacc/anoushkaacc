@@ -28,7 +28,7 @@ A framework for selective knowledge removal in multi-agent environments, targeti
 <br>
 
 **[2] MarTA-Net: A Terrain-Aware U-Net Enhanced with Convolutional Block Attention Modules for Martian Surface Segmentation**
-`IEEE Internet of Things Journal` · Regular Article · Under Review · `Manuscript ID: IoT-63723-2026.R1` · [![GitHub](https://img.shields.io/badge/GitHub-Mars--surface--segmentation-181717?style=flat-square&logo=github)](https://github.com/anoushkaacc/Mars-surface-segmentation)
+`IEEE Internet of Things Journal` · Regular Article · Accepted · `Manuscript ID: IoT-63723-2026.R1` · [![GitHub](https://img.shields.io/badge/GitHub-Mars--surface--segmentation-181717?style=flat-square&logo=github)](https://github.com/anoushkaacc/Mars-surface-segmentation)
 
 Proposes a CBAM-augmented U-Net for multiclass Martian terrain segmentation on CTX and HiRISE imagery. Achieves **+12% mIoU** over baseline through systematic ablation studies on architectural modifications. Submitted Dec 2025.
 
